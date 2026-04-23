@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks, This is <a href="https://github.com/yajivm">Vijay <b>Mani</b></a></h1>
+<h1 align="center">Hi folks, This is <a href="https://github.com/iamvjay-git">Vijay <b>Mani</b></a></h1>
 
 <h3 align="center">🚀 Frontend Developer | 9+ Years Crafting Stunning UIs</h3>
 
@@ -9,7 +9,7 @@
 <p align="center">Bringing 9 years of experience in front-end development, I specialize in building responsive, scalable web and mobile applications. Passionate about React, TypeScript, and modern web technologies, skilled at transforming Figma designs into pixel-perfect applications, and continuously expanding my expertise in Vue.js and emerging UI trends. </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yajivms&color=green&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamvjay-git&color=green&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack & Tools  </h2>
@@ -41,7 +41,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajivm&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvjay-git&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/yajiv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yajivm" target="_blank">
-    <img src="https://img.shields.io/github/followers/yajivm?label=Follow&style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/iamvjay-git" target="_blank">
+    <img src="https://img.shields.io/github/followers/iamvjay-git?label=Follow&style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
